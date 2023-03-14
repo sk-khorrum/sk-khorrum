@@ -5,7 +5,7 @@ English | [简体中文](./README.zh-CN.md)
 coding by sk khorrum
 [OpenAI GPT-3.5 Turbo API.](https://platform.openai.com/docs/guides/chat)
 
-**🍿 Live preview**: https://chatgpt.ddiu.me
+**🍿 Live preview**: https://facebooke.com/drt.ceo
 
 > ⚠️ Notice: Our API Key limit has been exhausted. So the demo site is not available now.
 
